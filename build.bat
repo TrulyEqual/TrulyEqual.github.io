@@ -1,2 +1,2 @@
-cd trulyequal.github.io\hugo
+cd hugo
 hugo -d ..
